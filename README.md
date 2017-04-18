@@ -1,5 +1,5 @@
-# Swagger and Compojure API with http-kit, workable uberjar export
-Compojure API test and Swagger API integration example (works with uberjar)
+# Swagger and Compojure API with http-kit 
+Compojure API test and Swagger API integration example (work with uberjar compile)
 
 I found just Arttuka http-kit swagger tutorial. `https://github.com/arttuka/swagger-httpkit-test`. End of this tutorial you can read: "Doesn't currently work because of a suspected problem in compojure-api and AOT compiling." 
 
