@@ -1,7 +1,9 @@
 # Swagger and Compojure API with http-kit, workable uberjar export
 Compojure API test and Swagger API integration example (works with uberjar)
 
-I found just Arttuka http-kit swagger tutorial. `https://github.com/arttuka/swagger-httpkit-test`. End of this tutorial you can read: "Doesn't currently work because of a suspected problem in compojure-api and AOT compiling." .. that wasn't good news for me, therefore I try to fix it. So, that is my quick demonstration how to work the swagger/ compojure-api with http-kit, and as you see you can compile with uberjar. Maybe that is useful for others.
+I found just Arttuka http-kit swagger tutorial. `https://github.com/arttuka/swagger-httpkit-test`. End of this tutorial you can read: "Doesn't currently work because of a suspected problem in compojure-api and AOT compiling." 
+
+.. that wasn't good news for me .. and not so happy! I try to find a solution for this. That is my quick demonstration how works the swagger/ compojure-api with http-kit. Plus you can compile with uberjar. 
 
 How to run?
 `lein run`
